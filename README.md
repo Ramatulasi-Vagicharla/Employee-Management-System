@@ -11,7 +11,6 @@ The **Employee Management System** is a comprehensive solution designed to manag
 - **Database**: MySQL
 - **Development Tools**: Eclipse IDE
 - **Version Control**: Git and GitHub
-
 ---
 
 ## **Features**
